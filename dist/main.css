@@ -1,3 +1,3 @@
-:root{--text: yellow}body{margin:0;background-color:red;color:yellow;color:var(--text);font-size:20px}main{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+:root{--text: yellow}body{margin:0;background-color:red;color:yellow;color:var(--text);font-size:20px}main{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.hero{background:url(images/9c5f9bb919c0dacea151.jpg);background-size:cover;background-position:center;min-height:300px;width:100%}
 
 /*# sourceMappingURL=main.css.map*/
